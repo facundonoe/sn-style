@@ -69,3 +69,4 @@ ALTER TABLE orders ENABLE ROW LEVEL SECURITY;
 CREATE POLICY "Public Access" ON orders FOR ALL USING (true);
 ```
 # Force rebuild 2026-01-20 19:50
+# Force clean rebuild 2026-01-20 20:10
