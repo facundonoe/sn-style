@@ -68,3 +68,4 @@ CREATE POLICY "Public Access" ON products FOR ALL USING (true);
 ALTER TABLE orders ENABLE ROW LEVEL SECURITY;
 CREATE POLICY "Public Access" ON orders FOR ALL USING (true);
 ```
+# Force rebuild 2026-01-20 19:50
