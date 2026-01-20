@@ -19,6 +19,8 @@ Para que los cambios del panel sean permanentes y globales:
 4. En Supabase, ve al **SQL Editor** y ejecuta el código de creación de tablas (ver abajo).
 
 ---
+Force rebuild 2026-01-20 19:50
+
 
 ## 🛠️ ¿Dónde hago los cambios?
 
