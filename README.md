@@ -33,6 +33,9 @@ Para que los cambios del panel sean permanentes y globales:
 - **¿Cómo?** Entras a tu web, vas a "Panel Admin" -> "Gestionar Productos". Al darle a "Guardar", se guarda en **Supabase** y todos los dispositivos se actualizan al instante. **¡No necesitas tocar GitHub para esto!**
 
 ---
+# Cambio para forzar redeploy
+rebuild at 2026-01-20 19:45
+
 
 ## 📝 Código SQL para Supabase (Copiar y Pegar)
 ```sql
